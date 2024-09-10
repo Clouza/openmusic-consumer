@@ -27,7 +27,7 @@ class PlaylistService {
             performer
         }));
 
-        return playlist;
+        return { playlist };
     }
 }
 
